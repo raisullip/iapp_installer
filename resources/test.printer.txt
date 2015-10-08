@@ -1,0 +1,17 @@
+ID: Runtriz
+Elapsed: 00:00:00
+Bar: Los Angeles
+Screen: 1
+Host: Runtriz
+Column: 1
+Server: Runtriz 
+**********************************
+1) Printer Successfully Tested    
+ 
+2) Enjoy your day     
+ 
+3) Good Work !!   
+ 
+ 
+**********************************
+Total: $1,000,000
